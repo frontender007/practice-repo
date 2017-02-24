@@ -1,1 +1,2 @@
-Hello to the git and gitHub. Its exciting new thing for the world to explore
+Hello to the git and gitHub. Its exciting new thing for the world to explore. I can see it will quite a useful thing in the future
+web development projects.
